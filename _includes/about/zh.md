@@ -1,13 +1,27 @@
-> 离开世界之前，一切都是过程。
+> 心里有火，眼里有光
 
-Hi，我是黄玄，前端 Online NPC，编程语言/编译器初心者，[Facebook](https://www.facebook.com/) 签约软件工程师，[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)认证数字设计师。我曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
-
-目前的物理活动范围主要在美帝，分身日常出没于[博客](https://huangxuan.me)、[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro)、[Medium](https://medium.com/@Huxpro)。
+Hi,我是刘子贤一个余2020年毕业的大学生。我是一个有责任感且团队意识强的人，平时喜欢学习一些自己陌生的技术，对于代码我想做到能精益求精不是简简单单达成目标，而是想用更成熟的技术去完成，在这条路我还有很多需要学习的地方。我也学习过一点点的算法，在大学期间参加过一些小型算法类比赛获得了国赛三等奖。
 
 
-##### 编程语言倾向
+##### 个人技能
 
-我倾向于 ML（“Meta Language”）等「函数式编程为主（mostly functional programming）」风格的编程语言，所以也就不难理解我的很多选择了：JavaScript 于动态类型、Scala 于 JVM 语言、Rust 于非托管语言等。
+> __从上到下__ 为喜欢程度， __从左到右__ 为了解程度
+
+|     |了解           |知道使用   ️                        |熟悉使用 ️                             |  ️
+| --- | ------------- | ---------------------------      | ----------------------------------  |
+| ❤️❤️❤️ | `C语言`       |                                  | `Java` `SQL` `JavaWeb` `Mysql`      |
+| ❤️❤️  |               | `Vue` `Redis` `Nginx` `JSP`      | `SSM框架` `Maven`                   |
+| ❤️   | `WXML`        | `Spring` `Tomcat` `微信公众号开发` | `HTML` `Css` `JavaScript` `jQuery` |
+
+##### 熟悉使用的软件
+
+ - __Eclipse__ 、__IDEA__ 、__SQLyog__ 、__Navicat__ 、__HBuilder__
+
+##### 拓展技能
+
+ - __Potoshop__ 、__Pr__ 、__Ae__ 、__offce办公软件__
+
+<!-- 我倾向于 ML（“Meta Language”）等「函数式编程为主（mostly functional programming）」风格的编程语言，所以也就不难理解我的很多选择了：JavaScript 于动态类型、Scala 于 JVM 语言、Rust 于非托管语言等。
 
 > __从左到右__ 为喜欢程度，__从上到下__ 为了解程度，__版本__ 表示下界。
 
@@ -20,10 +34,10 @@ Hi，我是黄玄，前端 Online NPC，编程语言/编译器初心者，[Faceb
 
 > __`ML*` 家族__：`OCaml` `ReasonML` `Standard ML`  
 > __`Lisp*` 家族__：`Clojure` `Scheme` `Racket`  
-> __`Typed JS*`__：`Flow` `TypeScript`
+> __`Typed JS*`__：`Flow` `TypeScript` -->
 
 
-##### 演讲与分享
+<!-- ##### 演讲与分享
 
 - [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
 - Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
@@ -43,4 +57,4 @@ Hi，我是黄玄，前端 Online NPC，编程语言/编译器初心者，[Faceb
 [6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+[9]: //huangxuan.me/jsconfcn2017/ -->
