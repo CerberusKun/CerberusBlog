@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: rkvslk@168.com
 description: "你们好！ 这里是刘子贤的博客"
 keyword: "keyword, 刘子贤, CerberusKun, 刘子贤的博客 | Cerberus's Blog, 刘子贤的博客"
-url: "https://blog.CerberusKun.cn"              # your host, for absolute URL
+url: "https://cerberuskun.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
